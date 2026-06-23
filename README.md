@@ -15,7 +15,8 @@ Contains the original dataset, data cleaning process, and data loading operation
 1.Who has the maximum posts
 2.who has the maximum followers
 3.Who follows the maximum people
-4.How many categories (Digital creators, Non-profit foundation, etc do we have? How many people do we have?
+4.How many categories (Digital creators, Non-profit foundation, etc do we have?How   many people do we have?
+
 ---
 
 ## Objectives
@@ -64,7 +65,7 @@ Suggests pages based on:
 ## Project Structure
 
 ```text
-coders-of-india/
+project/
 │
 ├── data.json
 ├── cleaned_data.json
@@ -77,7 +78,7 @@ coders-of-india/
     ├── finaldata.txt
     ├── last_final.txt
     ├── parsing.ipynb
-    └── recommendation modules
+    
 ```
 
 ---
